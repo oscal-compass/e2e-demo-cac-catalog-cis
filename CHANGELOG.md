@@ -1,2 +1,14 @@
 # Changelog
 
+<!--next-version-placeholder-->
+
+## v0.3.0 (2025-02-19)
+### Feature
+* Create release ([#6](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/6)) ([`13beb65`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/13beb657fd8a896a6e62184444555219e28f1319))
+* Create release ([`4001c1d`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/4001c1d5ba7e818c203293bb28f33fb38c935ac8))
+* Create a release ([#5](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/5)) ([`1652482`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/16524821cdad361f181089633d28812a608c7107))
+* Create a release ([#4](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/4)) ([`50f7db9`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/50f7db9d56b597a5942741b15d62375ec7a8dde3))
+* Create a release ([#3](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/3)) ([`3349cac`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/3349cacdac719492951632456eb5d3a1c14a6429))
+* Create a release ([#2](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/2)) ([`f1243d8`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/f1243d87cbc929b3dbf814b8375a3ac39a86d5fb))
+
+
