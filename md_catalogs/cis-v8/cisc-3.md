@@ -7,7 +7,7 @@ x-trestle-global:
 
 ## Control Statement
 
-Develop processes and technical controls to identify, classify, securely handle, retain, and dispose of data.
+Develop processes and technical controls to identify, classify, securely handle, retain, and dispose of data. TEST
 
 ## Control guidance
 
