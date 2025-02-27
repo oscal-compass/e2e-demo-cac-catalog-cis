@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.4 (2025-02-27)
+### Fix
+* Test create release ([#13](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/13)) ([`43ca2df`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/43ca2df906928fe061b99943d785ef2a745befca))
+
 ## v0.4.3 (2025-02-27)
 ### Fix
 * Test create release ([#12](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/12)) ([`91b2f46`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/91b2f46c4115fb1bd11196fe6b9da144f1d99206))
