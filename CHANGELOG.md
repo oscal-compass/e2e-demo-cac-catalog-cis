@@ -2,6 +2,15 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.2 (2025-02-27)
+### Fix
+* Test pipeline and create a release ([#11](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/11)) ([`b975967`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/b975967b0e374e74bcdd75c3d7ad81d5545af2b6))
+
+## v0.4.1 (2025-02-27)
+### Fix
+* Test creating a release ([`f017105`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/f0171058597ff368d35dbcacb9eb6ec30592768e))
+* Create release and see if downstream repo is updated ([#9](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/9)) ([`e6cfc5a`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/e6cfc5ab5f370f34494e4b6b4b6885f371a54977))
+
 ## v0.4.0 (2025-02-19)
 ### Feature
 * Create release ([#7](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/7)) ([`980af51`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/980af510239ac778b522f8e78ef6cc0f88b3748e))
