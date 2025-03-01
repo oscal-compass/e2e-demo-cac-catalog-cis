@@ -44,12 +44,12 @@ jobs:
       with:
         repository: oscal-compass/e2e-demo-cac-profile-cis
         path: './e2e-demo-cac-profile-cis'
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.PUSH_TOKEN }}
         fetch-depth: 0
     - name: Update profiles
       run: bash scripts/automation/update_profile.sh
       env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.PUSH_TOKEN }}
   merge-main-to-develop:
     name: Merge main to develop
     runs-on: ubuntu-latest
